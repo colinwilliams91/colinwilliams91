@@ -1,7 +1,3 @@
-<head>
-  <title>Example Title</title>
-</head>
-
 ### Hi, I'm Colin 👋
 
 <!--
