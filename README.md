@@ -1,4 +1,8 @@
-### Hi there 👋
+<head>
+<title>Example Title</title>
+</head>
+
+### Hi, I'm Colin 👋
 
 <!--
 **colinwilliams91/colinwilliams91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
