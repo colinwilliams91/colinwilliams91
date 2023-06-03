@@ -6,7 +6,7 @@
 </div>
 <div>     
 </div>
-<p>
+<p margin-top=10>
   <img width=60 height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </p>
 <!--
