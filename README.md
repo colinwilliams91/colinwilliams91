@@ -2,6 +2,7 @@
   <h3> Hi, I'm Colin 👋 </h3>
   <a href="./UNLICENSE" target="blank"><img src="https://img.shields.io/github/stars/colinwilliams91?affiliations=OWNER%2CCOLLABORATOR&style=social"></img></a>
 </div>
+✨✨✨✨
 <!--
 **colinwilliams91/colinwilliams91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
