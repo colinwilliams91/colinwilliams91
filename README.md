@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>✨ Hi, I'm Colin 👋 ✨</h3>
+  <h3>✨ Hi, I'm Colin 🌱 ✨</h3>
   ✨
   <a href="./UNLICENSE" target="blank"><img src="https://img.shields.io/github/stars/colinwilliams91?affiliations=OWNER%2CCOLLABORATOR&style=social"></img></a>
   ✨
