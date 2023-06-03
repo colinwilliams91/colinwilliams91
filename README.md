@@ -6,7 +6,7 @@
 </div>
 <div>     
 </div>
-<div height="500px" width="100%" justify-content="start">
+<div height="100px" width="100px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </div>
 <!--
