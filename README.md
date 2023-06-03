@@ -6,9 +6,9 @@
 </div>
 <div>     
 </div>
-<div height="100px" width="100px">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-</div>
+</p>
 <!--
 **colinwilliams91/colinwilliams91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
