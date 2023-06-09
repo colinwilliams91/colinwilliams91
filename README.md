@@ -1,14 +1,16 @@
-<div>
-  <div style="display: inline-block; text-align: start;">
-    <a href="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349281/aws-certified-cloud-practitioner-72x72_al2yff.png"><img src="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349281/aws-certified-cloud-practitioner-72x72_al2yff.png"></img></a>
-  </div>
-  <div style="display: inline-block; text-align: center;">
-    <h3>✨ Hi, I'm Colin 👋 ✨</h3>
-    ✨
-    <a href="https://github.com/colinwilliams91" target="blank"><img src="https://img.shields.io/github/stars/colinwilliams91?affiliations=OWNER%2CCOLLABORATOR&style=social"></img></a>
-    ✨
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349281/aws-certified-cloud-practitioner-72x72_al2yff.png"><img src="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349281/aws-certified-cloud-practitioner-72x72_al2yff.png"></a>
+    </td>
+    <td align="center">
+      <h3>✨ Hi, I'm Colin 👋 ✨</h3>
+      ✨
+      <a href="https://github.com/colinwilliams91" target="_blank"><img src="https://img.shields.io/github/stars/colinwilliams91?affiliations=OWNER%2CCOLLABORATOR&style=social"></a>
+      ✨
+    </td>
+  </tr>
+</table>
 <br />
 <p align="center">
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
