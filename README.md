@@ -1,8 +1,8 @@
-<div justify-content="center">
-  <div align="start">
+<div style="display: flex;">
+  <div style="flex: 1; text-align: start;">
     <a href="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349281/aws-certified-cloud-practitioner-72x72_al2yff.png"><img src="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349281/aws-certified-cloud-practitioner-72x72_al2yff.png"></img></a>
   </div>
-  <div align="center">
+  <div style="flex: 1; text-align: center;">
     <h3>✨ Hi, I'm Colin 👋 ✨</h3>
     ✨
     <a href="https://github.com/colinwilliams91" target="blank"><img src="https://img.shields.io/github/stars/colinwilliams91?affiliations=OWNER%2CCOLLABORATOR&style=social"></img></a>
