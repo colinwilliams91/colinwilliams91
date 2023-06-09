@@ -2,7 +2,6 @@
   <h3>✨ Hi, I'm Colin 👋 ✨</h3>
   ✨
   <a href="https://github.com/colinwilliams91" target="blank"><img src="https://img.shields.io/github/stars/colinwilliams91?affiliations=OWNER%2CCOLLABORATOR&style=social"></img></a>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cdb945ba-a828-466b-ae44-c9e4fbfd783d" data-share-badge-host="https://www.credly.com"></div>
   ✨
 </div>
 <br />
