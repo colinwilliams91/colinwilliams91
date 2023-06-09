@@ -1,13 +1,3 @@
-<style>
-  table {
-    border-collapse: collapse;
-  }
-  td {
-    border: none;
-    padding: 0;
-  }
-</style>
-
 <table align="center">
   <tr>
     <td align="center">
