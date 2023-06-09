@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div>
   <div style="display: inline-block; text-align: start;">
     <a href="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349281/aws-certified-cloud-practitioner-72x72_al2yff.png"><img src="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349281/aws-certified-cloud-practitioner-72x72_al2yff.png"></img></a>
   </div>
