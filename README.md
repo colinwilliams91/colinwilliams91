@@ -32,7 +32,7 @@
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> -->
   
 </p>
-<a href="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349167/aws-certified-cloud-practitioner-102x102_jcwhk0.png"><img src="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349167/aws-certified-cloud-practitioner-102x102_jcwhk0.png"></img></a>
+<a href="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349281/aws-certified-cloud-practitioner-72x72_al2yff.png"><img src="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349281/aws-certified-cloud-practitioner-72x72_al2yff.png"></img></a>
 <!--
 **colinwilliams91/colinwilliams91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
