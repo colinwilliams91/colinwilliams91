@@ -1,4 +1,14 @@
-<table align="center" border="none">
+<style>
+  table {
+    border-collapse: collapse;
+  }
+  td {
+    border: none;
+    padding: 0;
+  }
+</style>
+
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349281/aws-certified-cloud-practitioner-72x72_al2yff.png"><img src="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349281/aws-certified-cloud-practitioner-72x72_al2yff.png"></a>
