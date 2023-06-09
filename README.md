@@ -1,3 +1,6 @@
+<div align="start">
+  <a href="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349281/aws-certified-cloud-practitioner-72x72_al2yff.png"><img src="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349281/aws-certified-cloud-practitioner-72x72_al2yff.png"></img></a>
+<div>
 <div align="center">
   <h3>✨ Hi, I'm Colin 👋 ✨</h3>
   ✨
@@ -32,9 +35,6 @@
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> -->
   
 </p>
-<div align="center">
-  <a href="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349281/aws-certified-cloud-practitioner-72x72_al2yff.png"><img src="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349281/aws-certified-cloud-practitioner-72x72_al2yff.png"></img></a>
-<div>
 <!--
 **colinwilliams91/colinwilliams91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
