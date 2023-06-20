@@ -33,7 +33,7 @@
   
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" />
+  <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
   
 <!--   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> -->
