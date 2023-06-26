@@ -36,9 +36,7 @@
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 <!--   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> -->
-<h1>Kubernetes</h1>
-<h1>NestJS</h1>
-<h1>AWS</h1>
+
 </p>
 
 <!--
