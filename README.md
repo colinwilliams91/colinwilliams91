@@ -14,6 +14,11 @@
       <a href="https://github.com/colinwilliams91" target="_blank"><img src="https://img.shields.io/github/stars/colinwilliams91?affiliations=OWNER%2CCOLLABORATOR&style=social"></a>
       ✨
     </td>
+    <td>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=colinwilliams91&theme=onedark&title=PullRequest,Repositories,Issues" alt="trophy" />
+      </a>
+    </td>
   </tr>
 </table>
 <br />
