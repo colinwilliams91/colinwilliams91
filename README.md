@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=colinwilliams91&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=colinwilliams91&theme=dracula&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="trophy" />
   </a>
 </p>
 
