@@ -1,6 +1,11 @@
 <table align="center" border-radius="5px">
   <tr>
     <td align="center">
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=colinwilliams91&theme=onedark&title=MultiLanguage,Reviews,Commits" alt="trophy" />
+      </a>
+    </td>
+    <td align="center">
       <a href="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349281/aws-certified-cloud-practitioner-72x72_al2yff.png"><img src="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349281/aws-certified-cloud-practitioner-72x72_al2yff.png"></a>
     </td>
     <td align="center">
