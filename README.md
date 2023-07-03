@@ -1,23 +1,13 @@
 <table align="center" border-radius="5px">
   <tr>
-    <td>
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=colinwilliams91&theme=onedark&title=MultiLanguage,Reviews,Commits" alt="trophy" />
-      </a>
-    </td>
-    <td>
+    <td align="center">
       <a href="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349281/aws-certified-cloud-practitioner-72x72_al2yff.png"><img src="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349281/aws-certified-cloud-practitioner-72x72_al2yff.png"></a>
     </td>
-    <td>
+    <td align="center">
       <h3>✨ Hi, I'm Colin 👋 ✨</h3>
       ✨
       <a href="https://github.com/colinwilliams91" target="_blank"><img src="https://img.shields.io/github/stars/colinwilliams91?affiliations=OWNER%2CCOLLABORATOR&style=social"></a>
       ✨
-    </td>
-    <td>
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=colinwilliams91&theme=onedark&title=PullRequest,Repositories,Issues" alt="trophy" />
-      </a>
     </td>
   </tr>
 </table>
@@ -47,16 +37,9 @@
 <!--   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> -->
 
-</p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=colinwilliams91&theme=onedark&title=MultiLanguage,Reviews,Commits" alt="trophy" />
-  </a>
-</p>
-</p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=colinwilliams91&theme=onedark&title=PullRequest,Repositories,Issues" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=colinwilliams91&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="trophy" />
   </a>
 </p>
 
