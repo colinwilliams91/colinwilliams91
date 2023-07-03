@@ -1,6 +1,6 @@
 <table align="center" border-radius="5px">
   <tr>
-    <td align="center">
+    <td>
       <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=colinwilliams91&theme=onedark&title=MultiLanguage,Reviews,Commits" alt="trophy" />
       </a>
