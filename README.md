@@ -11,11 +11,11 @@
     </td>
   </tr>
 </table>
-<table align="center">
+<table align="center" border-radius="5px">
   <tr>
     <td>
       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=colinwilliams91&margin-w=15&theme=dracula&title=MultiLanguage,Reviews,Commits,PullRequest,Repositories,Issues" alt="trophy" />
+        <img src="https://github-profile-trophy.vercel.app/?username=colinwilliams91&margin-w=15&theme=dracula&title=MultiLanguage,Reviews,Commits,PullRequest,Repositories,Issues" alt="trophy">
       </a>
     </td>
   </tr>
