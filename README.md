@@ -13,7 +13,7 @@
 </table>
 
 <p align="center">
-  <img width=700 height=100 src="https://github-profile-trophy.vercel.app/?username=colinwilliams91&margin-w=15&theme=dracula&title=MultiLanguage,Reviews,Commits,PullRequest,Repositories,Issues" alt="trophy" />
+  <img width=800 height=150 src="https://github-profile-trophy.vercel.app/?username=colinwilliams91&margin-w=15&theme=dracula&title=MultiLanguage,Reviews,Commits,PullRequest,Repositories,Issues" alt="trophy" />
 </p>
 
 <p align="center">
