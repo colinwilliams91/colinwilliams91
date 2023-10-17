@@ -12,8 +12,8 @@
   </tr>
 </table>
 
-<p align="center" width="100%>
-  <img src="https://github-profile-trophy.vercel.app/?username=colinwilliams91&margin-w=15&theme=dracula&title=MultiLanguage,Reviews,Commits,PullRequest,Repositories,Issues" alt="trophy" />
+<p align="center">
+  <img width=100 height=100 src="https://github-profile-trophy.vercel.app/?username=colinwilliams91&margin-w=15&theme=dracula&title=MultiLanguage,Reviews,Commits,PullRequest,Repositories,Issues" alt="trophy" />
 </p>
 
 <p align="center">
