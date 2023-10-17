@@ -18,14 +18,7 @@
   </p>
 -->
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img width=1500 height=160 src="https://github-profile-trophy.vercel.app/?username=colinwilliams91&margin-w=15&theme=dracula&title=MultiLanguage,Reviews,Commits,PullRequest,Repositories,Issues" alt="trophy" />
-    </td>
-  </tr>
-</table>
-
+![](https://github-profile-trophy.vercel.app/?username=colinwilliams91&margin-w=15&theme=dracula&title=MultiLanguage,Reviews,Commits,PullRequest,Repositories,Issues)
 
 <p align="center">
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
