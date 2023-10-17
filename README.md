@@ -12,9 +12,9 @@
   </tr>
 </table>
 
-<div style="text-align:center">
+<p align="center" width="100%>
   <img src="https://github-profile-trophy.vercel.app/?username=colinwilliams91&margin-w=15&theme=dracula&title=MultiLanguage,Reviews,Commits,PullRequest,Repositories,Issues" alt="trophy" />
-</div>
+</p>
 
 <p align="center">
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
