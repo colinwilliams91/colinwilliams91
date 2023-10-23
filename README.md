@@ -8,7 +8,7 @@
       ✨
       <a href="https://github.com/colinwilliams91" target="_blank"><img src="https://img.shields.io/github/stars/colinwilliams91?affiliations=OWNER%2CCOLLABORATOR&style=social"></a>
       ✨
-      <h1><a href="https://www.colin-williams.dev/">colin-williams.dev/</a></h1>
+      <h1><a href="https://www.colin-williams.dev/">colin-williams.dev</a></h1>
     </td>
   </tr>
 </table>
