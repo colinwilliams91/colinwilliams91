@@ -11,7 +11,7 @@
     </td>
     <td>
       <h4>
-        I work for the LDH/CDC - STD/HIV/HEP Program as an Application Developer.
+        💻 I'm an Application Developer for the LDH/CDC - STD/HIV/HEP Program.
       </h4>
     </td>
   </tr>
