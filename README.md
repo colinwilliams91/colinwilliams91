@@ -10,7 +10,9 @@
       ✨
     </td>
     <td>
-      I work for the LDH/CDC - STD/HIV/HEP Program as an Application Developer.
+      <h3>
+        I work for the LDH/CDC - STD/HIV/HEP Program as an Application Developer.
+      </h3>
     </td>
   </tr>
 </table>
