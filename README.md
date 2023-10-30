@@ -9,6 +9,9 @@
       <a href="https://github.com/colinwilliams91" target="_blank"><img src="https://img.shields.io/github/stars/colinwilliams91?affiliations=OWNER%2CCOLLABORATOR&style=social"></a>
       ✨
     </td>
+    <td>
+      I work for the LDH/CDC - STD/HIV/HEP Program as an Application Developer.
+    </td>
   </tr>
 </table>
 
