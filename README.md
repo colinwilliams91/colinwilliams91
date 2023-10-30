@@ -8,9 +8,7 @@
         <h3>✨ Hi, I'm Colin ✨</h3>
         <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px" />
       </b>
-      ✨
       <a href="https://github.com/colinwilliams91" target="_blank"><img src="https://img.shields.io/github/stars/colinwilliams91?affiliations=OWNER%2CCOLLABORATOR&style=social"></a>
-      ✨
     </td>
     <td>
       <b>
