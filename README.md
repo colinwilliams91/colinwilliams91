@@ -20,22 +20,6 @@
   </tr>
 </table>
 
-<img width=1500 height=124 src="https://github-profile-trophy.vercel.app/?username=colinwilliams91&margin-w=15&theme=dracula&title=MultiLanguage,Reviews,Commits,PullRequest,Repositories,Issues" alt="trophy" />
-
-<!--  ![](https://github-profile-trophy.vercel.app/?username=colinwilliams91&margin-w=15&theme=dracula&title=MultiLanguage,Reviews,Commits,PullRequest,Repositories,Issues) -->
-
-<!--
-| ![](https://github-profile-trophy.vercel.app/?username=colinwilliams91&margin-w=15&theme=dracula&title=MultiLanguage,Reviews,Commits,PullRequest,Repositories,Issues) |
-| :--: |
--->
-
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
 
 <p>
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -60,6 +44,25 @@
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 </p>
+
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+<img width=1500 height=124 src="https://github-profile-trophy.vercel.app/?username=colinwilliams91&margin-w=15&theme=dracula&title=MultiLanguage,Reviews,Commits,PullRequest,Repositories,Issues" alt="trophy" />
+
+<!--  ![](https://github-profile-trophy.vercel.app/?username=colinwilliams91&margin-w=15&theme=dracula&title=MultiLanguage,Reviews,Commits,PullRequest,Repositories,Issues) -->
+
+<!--
+| ![](https://github-profile-trophy.vercel.app/?username=colinwilliams91&margin-w=15&theme=dracula&title=MultiLanguage,Reviews,Commits,PullRequest,Repositories,Issues) |
+| :--: |
+-->
+
 
 
 <!--   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
