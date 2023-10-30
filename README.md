@@ -4,7 +4,7 @@
       <a href="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349281/aws-certified-cloud-practitioner-72x72_al2yff.png"><img src="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349281/aws-certified-cloud-practitioner-72x72_al2yff.png"></a>
     </td>
     <td align="center">
-      <b><h3>✨ Hi, I'm Colin ✨</h3><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px" /></b>
+      <h3>✨ Hi, I'm Colin ✨<b><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px" /></b></h3>
       ✨
       <a href="https://github.com/colinwilliams91" target="_blank"><img src="https://img.shields.io/github/stars/colinwilliams91?affiliations=OWNER%2CCOLLABORATOR&style=social"></a>
       ✨
