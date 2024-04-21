@@ -20,7 +20,7 @@
       </p>
       <p>
         <b>
-        🔧 Tool maker and 🎮 Game Dev by night!
+        By day 🌞, 🔧 Tool maker and 🎮 Game Dev by night 🌙!
         </b>
       </p>
     </td>
