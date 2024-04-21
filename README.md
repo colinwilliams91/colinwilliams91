@@ -15,7 +15,7 @@
     <td>
       <p>
         <b>
-          💻 I'm an Application Developer for the <a href="https://louisianahealthhub.org/" target="_blank">LDH/CDC - STD/HIV/HEP Program</a> by day 🌞
+          💻 Application Developer for the <a href="https://louisianahealthhub.org/" target="_blank">LDH/CDC - STD/HIV/HEP Program</a> by day 🌞
         </b>
       </p>
       <p>
