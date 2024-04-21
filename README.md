@@ -15,12 +15,12 @@
     <td>
       <p>
         <b>
-          💻 I'm an Application Developer for the <a href="https://louisianahealthhub.org/" target="_blank">LDH/CDC - STD/HIV/HEP Program</a>
+          💻 I'm an Application Developer for the <a href="https://louisianahealthhub.org/" target="_blank">LDH/CDC - STD/HIV/HEP Program</a> by day 🌞
         </b>
       </p>
       <p>
         <b>
-        By day 🌞, 🔧 Tool maker and 🎮 Game Dev by night 🌙!
+        🔧 Tool maker and 🎮 Game Dev by night 🌙!
         </b>
       </p>
     </td>
