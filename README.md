@@ -19,7 +19,10 @@
     </td>
     <td>
       <b>
-        🔧 Tool maker and 🎮 Game Dev by night!
+        🔧 Tool maker and
+      </b>
+      <b>
+        🎮 Game Dev by night!
       </b>
     </td>
   </tr>
