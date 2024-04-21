@@ -16,6 +16,8 @@
       <b>
         💻 I'm an Application Developer for the <a href="https://louisianahealthhub.org/" target="_blank">LDH/CDC - STD/HIV/HEP Program</a>
       </b>
+    </td>
+    <td>
       <b>
         🔧 Tool maker and 🎮 Game Dev by night!
       </b>
