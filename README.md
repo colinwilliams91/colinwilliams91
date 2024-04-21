@@ -13,17 +13,16 @@
       <a href="https://github.com/colinwilliams91" target="_blank"><img src="https://img.shields.io/github/stars/colinwilliams91?affiliations=OWNER%2CCOLLABORATOR&style=social"></a>
     </td>
     <td>
-      <b>
-        💻 I'm an Application Developer for the <a href="https://louisianahealthhub.org/" target="_blank">LDH/CDC - STD/HIV/HEP Program</a>
-      </b>
-    </td>
-    <td>
-      <b>
-        🔧 Tool maker and
-      </b>
-      <b>
-        🎮 Game Dev by night!
-      </b>
+      <p>
+        <b>
+        🔧 Tool maker and 🎮 Game Dev by night!
+        </b>
+      </p>
+      <p>
+        <b>
+          💻 I'm an Application Developer for the <a href="https://louisianahealthhub.org/" target="_blank">LDH/CDC - STD/HIV/HEP Program</a>
+        </b>
+      </p>
     </td>
   </tr>
 </table>
