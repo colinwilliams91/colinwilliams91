@@ -20,7 +20,7 @@
       </p>
       <p>
         <b>
-        🔧 Tool Maker and 🎮 Game Dev by night 🌙!
+        🔧 Tool Maker and 🎮 Unity Certified Game Dev by night 🌙!
         </b>
       </p>
     </td>
