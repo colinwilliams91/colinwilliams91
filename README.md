@@ -69,6 +69,8 @@
     </td> 
     <td>
       <a href="https://res.cloudinary.com/dbdyc4klu/image/upload/v1718938473/Certs/96x96-unity-certified-associate-programmer_kqjr2s.png"><img src="https://res.cloudinary.com/dbdyc4klu/image/upload/v1718945870/Certs/150x150-unity-certified-associate-programmer_bm1vup.png"></a>
+    </td>
+    <td>
       <a href="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349281/aws-certified-cloud-practitioner-72x72_al2yff.png"><img src="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349281/aws-certified-cloud-practitioner-72x72_al2yff.png"></a>
     </td>
   </tr>  
