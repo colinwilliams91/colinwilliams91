@@ -63,9 +63,11 @@
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </p>
 
-<img width=1500 height=100 src="https://github-profile-trophy.vercel.app/?username=colinwilliams91&margin-w=20&theme=dracula&title=MultiLanguage,Reviews,Commits,PullRequest,Repositories,Issues" alt="trophy" />
+<p>
+  <img width=1500 height=100 src="https://github-profile-trophy.vercel.app/?username=colinwilliams91&margin-w=20&theme=dracula&title=MultiLanguage,Reviews,Commits,PullRequest,Repositories,Issues" alt="trophy" />
+  <a href="https://res.cloudinary.com/dbdyc4klu/image/upload/v1718938473/Certs/96x96-unity-certified-associate-programmer_kqjr2s.png"><img src="https://res.cloudinary.com/dbdyc4klu/image/upload/v1718938473/Certs/96x96-unity-certified-associate-programmer_kqjr2s.png"></a>
+</p>
 
-<a href="https://res.cloudinary.com/dbdyc4klu/image/upload/v1718938473/Certs/96x96-unity-certified-associate-programmer_kqjr2s.png"><img src="https://res.cloudinary.com/dbdyc4klu/image/upload/v1718938473/Certs/96x96-unity-certified-associate-programmer_kqjr2s.png"></a>
 
 <!--  ![](https://github-profile-trophy.vercel.app/?username=colinwilliams91&margin-w=15&theme=dracula&title=MultiLanguage,Reviews,Commits,PullRequest,Repositories,Issues) -->
 
