@@ -67,8 +67,10 @@
   <tr>
     <td>
       <img width=1500 height=100 src="https://github-profile-trophy.vercel.app/?username=colinwilliams91&margin-w=20&theme=dracula&title=MultiLanguage,Reviews,Commits,PullRequest,Repositories,Issues" alt="trophy" />
-      <a href="https://res.cloudinary.com/dbdyc4klu/image/upload/v1718938473/Certs/96x96-unity-certified-associate-programmer_kqjr2s.png"><img src="https://res.cloudinary.com/dbdyc4klu/image/upload/v1718938473/Certs/96x96-unity-certified-associate-programmer_kqjr2s.png"> </a>
     </td> 
+    <td>
+      <a href="https://res.cloudinary.com/dbdyc4klu/image/upload/v1718938473/Certs/96x96-unity-certified-associate-programmer_kqjr2s.png"><img src="https://res.cloudinary.com/dbdyc4klu/image/upload/v1718938473/Certs/96x96-unity-certified-associate-programmer_kqjr2s.png"> </a>
+    </td>
   </tr>  
 </table>
 
