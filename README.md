@@ -1,7 +1,5 @@
 <table border-radius="5px">
   <tr>
-    <td>
-    </td>
     <td align="center">
       <b>
         <h3>
