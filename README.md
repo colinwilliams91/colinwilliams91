@@ -12,7 +12,7 @@
     <td>
       <p>
         <b>
-          💻 Application Developer for the <a href="https://louisianahealthhub.org/" target="_blank">LDH/CDC - STD/HIV/HEP Program</a> by day 🌞
+          💻 Software Developer at <a href="https://www.poolcorp.com/" target="_blank">POOLCORP</a> by day 🌞
         </b>
       </p>
       <p>
