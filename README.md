@@ -12,7 +12,7 @@
     <td>
       <p>
         <b>
-          💻 Software Developer at <a href="https://www.poolcorp.com/" target="_blank">POOLCORP</a> by day 🌞
+          💻 Software Engineer II at <a href="https://www.poolcorp.com/" target="_blank">POOLCORP</a> by day 🌞
         </b>
       </p>
       <p>
