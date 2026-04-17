@@ -32,7 +32,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-<p style="white-space: nowrap;">
+<p>
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
@@ -61,7 +61,7 @@
 </p>
 
 
-<img width=1200 height=100 src="https://github-profile-trophy.vercel.app/?username=colinwilliams91&margin-w=20&theme=dracula&title=MultiLanguage,Reviews,Commits,PullRequest,Repositories,Issues" alt="trophy"/>
+<!-- <img width=1200 height=100 src="https://github-profile-trophy.vercel.app/?username=colinwilliams91&margin-w=20&theme=dracula&title=MultiLanguage,Reviews,Commits,PullRequest,Repositories,Issues" alt="trophy"/> -->
 <p align="left">
   <a href="https://res.cloudinary.com/dbdyc4klu/image/upload/v1686349281/aws-certified-cloud-practitioner-72x72_al2yff.png"><img src="https://res.cloudinary.com/dbdyc4klu/image/upload/v1718947219/Certs/132x132-aws-certified-cloud-practitioner_o0cfu2.png"></a>
   <a href="https://res.cloudinary.com/dbdyc4klu/image/upload/v1718938473/Certs/96x96-unity-certified-associate-programmer_kqjr2s.png"><img src="https://res.cloudinary.com/dbdyc4klu/image/upload/v1718947219/Certs/132x132-unity-certified-associate-programmer_rqexnr.png"></a>
