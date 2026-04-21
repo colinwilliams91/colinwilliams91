@@ -31,11 +31,12 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+<i class="devicon-javascript-plain"></i>
+<i class="devicon-javascript-plain"></i>
+<i class="devicon-javascript-plain"></i>
 
 <div align="center">
-  <i class="devicon-javascript-plain"></i>
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
