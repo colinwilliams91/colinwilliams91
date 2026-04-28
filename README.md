@@ -1,4 +1,4 @@
-<table border-radius="5px">
+<!-- <table border-radius="5px">
   <tr>
     <td align="center">
       <b>
@@ -22,7 +22,20 @@
       </p>
     </td>
   </tr>
-</table>
+</table> -->
+
+<br/><br/>
+<p>
+  <h3>
+    ✨hi, i'm colin✨
+  </h3>
+  <h4>
+    💻 🇸🇴🇫🇹🇼🇦🇷🇪 🇪🇳🇬🇮🇳🇪🇪🇷 🇮🇮 🇦🇹 <a href="https://www.poolcorp.com/" target="_blank">POOLCORP</a> 🇧🇾 🇩🇦🇾 ☀️
+  </h4>
+  <h4>
+    🔧 🇹🇴🇴🇱 🇲🇦🇰🇪🇷 🇦🇳🇩 🎮 🇨🇪🇷🇹🇮🇫🇮🇪🇩 🇺🇳🇮🇹🇾 🇬🇦🇲🇪 🇩🇪🇻 🇧🇾 🇳🇮🇬🇭🇹 🌙
+  </h4>
+</p>
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
