@@ -3,7 +3,7 @@
     <td align="center">
       <b>
         <h3>
-        ✴* █▓▒▒░░░ʰⁱ--ⁱ'ᵐ ᶜᵒˡⁱⁿ░░░▒▒▓█ *✴
+        ﹡*🇭🇮--🇮'🇲 🇨🇴🇱🇮🇳*﹡
         </h3>
         <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px" />
       </b>
