@@ -26,15 +26,15 @@
 
 <br/><br/>
 <p>
-  <h3>
+  <h1>
     ✨🇭🇮, 🇮'🇲 🇨🇴🇱🇮🇳✨
-  </h3>
-  <h4>
+  </h1>
+  <h2>
     💻 🇸🇴🇫🇹🇼🇦🇷🇪 🇪🇳🇬🇮🇳🇪🇪🇷 🇮🇮 🇦🇹 <a href="https://www.poolcorp.com/" target="_blank">POOLCORP</a> 🇧🇾 🇩🇦🇾 ☀️
-  </h4>
-  <h4>
+  </h2>
+  <h2>
     🔧 🇹🇴🇴🇱 🇲🇦🇰🇪🇷 🇦🇳🇩 🎮 🇨🇪🇷🇹🇮🇫🇮🇪🇩 🇺🇳🇮🇹🇾 🇬🇦🇲🇪 🇩🇪🇻 🇧🇾 🇳🇮🇬🇭🇹 🌙
-  </h4>
+  </h2>
 </p>
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
