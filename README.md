@@ -27,7 +27,7 @@
 <br/><br/>
 <p>
   <h3>
-    ✨hi, i'm colin✨
+    ✨🇭🇮, 🇮'🇲 🇨🇴🇱🇮🇳✨
   </h3>
   <h4>
     💻 🇸🇴🇫🇹🇼🇦🇷🇪 🇪🇳🇬🇮🇳🇪🇪🇷 🇮🇮 🇦🇹 <a href="https://www.poolcorp.com/" target="_blank">POOLCORP</a> 🇧🇾 🇩🇦🇾 ☀️
