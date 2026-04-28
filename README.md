@@ -31,7 +31,7 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=ts,js,cs,dotnet,go,nodejs,express,react,nextjs,svelte,nestjs,jquery,vite,electron,tailwind,powershell,aws,azure,githubactions,kubernetes,docker,unity,obsidian,vscode,visualstudio&perline=13"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,kubernetes,ts,docker,go,js,svelte,jquery,nestjs,vite,nodejs,obsidian,visualstudio,vscode,azure,tailwind,react,electron,githubactions,powershell,unity,nextjs,aws&perline=12"/>
 
 <!-- <p align="left">
   <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
