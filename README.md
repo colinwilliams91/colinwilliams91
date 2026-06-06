@@ -29,7 +29,7 @@
     ✨🇭🇮, 🇮'🇲 🇨🇴🇱🇮🇳✨
   </h2>
   <h3>
-    💻 ʟᴇᴀᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀ 🇦🇹 <a href="https://goldstandard.dev/" target="_blank">GOLD STANDARD</a> 🇧🇾 🇩🇦🇾 ☀️
+    💻 ʟᴇᴀᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀ 🇦🇹 <a href="https://goldstandard.dev/" target="_blank">ᵍᵒˡᵈ ˢᵗᵃⁿᵈᵃʳᵈ</a> 🇧🇾 🇩🇦🇾 ☀️
   </h3>
   <h3>
     🔧 🇹🇴🇴🇱 🇲🇦🇰🇪🇷 🇦🇳🇩 🎮 🇨🇪🇷🇹🇮🇫🇮🇪🇩 🇺🇳🇮🇹🇾 🇬🇦🇲🇪 🇩🇪🇻 🇧🇾 🇳🇮🇬🇭🇹 🌙
