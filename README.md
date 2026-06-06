@@ -29,7 +29,7 @@
     ✨🇭🇮, 🇮'🇲 🇨🇴🇱🇮🇳✨
   </h2>
   <h3>
-    💻 🇸🇴🇫🇹🇼🇦🇷🇪 🇪🇳🇬🇮🇳🇪🇪🇷 🇮🇮 🇦🇹 <a href="https://www.poolcorp.com/" target="_blank">POOLCORP</a> 🇧🇾 🇩🇦🇾 ☀️
+    💻 ʟᴇᴀᴅ ꜱᴏꜰᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀ 🇦🇹 <a href="https://goldstandard.dev/" target="_blank">GOLD STANDARD</a> 🇧🇾 🇩🇦🇾 ☀️
   </h3>
   <h3>
     🔧 🇹🇴🇴🇱 🇲🇦🇰🇪🇷 🇦🇳🇩 🎮 🇨🇪🇷🇹🇮🇫🇮🇪🇩 🇺🇳🇮🇹🇾 🇬🇦🇲🇪 🇩🇪🇻 🇧🇾 🇳🇮🇬🇭🇹 🌙
